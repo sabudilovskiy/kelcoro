@@ -21,3 +21,7 @@ if(KELCORO_ENABLE_TESTING)
 	include(CTest)
 	add_subdirectory(tests)
 endif()
+
+if(KELCORO_BUILD_EXAMPLES)
+	add_subdirectory(examples)
+endif()

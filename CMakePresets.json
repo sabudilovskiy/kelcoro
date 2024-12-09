@@ -9,7 +9,9 @@
         "CMAKE_EXPORT_COMPILE_COMMANDS": "1",
         "CMAKE_BUILD_TYPE": "Debug",
         "KELCORO_ENABLE_TESTING": "ON",
-        "CMAKE_CXX_STANDARD": "20"
+        "CMAKE_CXX_STANDARD": "20",
+        "CPM_SOURCE_CACHE": "/home/sabudilovskiy/CPM",
+        "KELCORO_BUILD_EXAMPLES": "ON"
       }
     },
     {
@@ -20,7 +22,8 @@
         "CMAKE_EXPORT_COMPILE_COMMANDS": "1",
         "CMAKE_BUILD_TYPE": "Release",
         "KELCORO_ENABLE_TESTING": "ON",
-        "CMAKE_CXX_STANDARD": "20"
+        "CMAKE_CXX_STANDARD": "20",
+        "CPM_SOURCE_CACHE": "/home/sabudilovskiy/CPM"
       }
     },
     {
@@ -30,7 +33,8 @@
       "cacheVariables": {
         "CMAKE_EXPORT_COMPILE_COMMANDS": "1",
         "CMAKE_BUILD_TYPE": "Release",
-        "CMAKE_CXX_STANDARD": "20"
+        "CMAKE_CXX_STANDARD": "20",
+        "CPM_SOURCE_CACHE": "/home/sabudilovskiy/CPM"
       }
     }
   ]
